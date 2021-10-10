@@ -1,0 +1,36 @@
+p{
+    color: white;
+}
+
+.InputContainer{
+    margin-top: 180px;
+}
+
+.InputButton{
+    width:100%;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+.site{
+    margin-top: 40px;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    border: 2px solid white;
+    border-radius: 25%;
+}
+.copy{
+    font-size: 1rem;
+    margin-left: 20px;
+    color: blue;
+}
+.copy:hover{
+    color: black;
+    background-color: white;
+    border-radius: 10%;
+    cursor: grab;
+}
+.shrt{
+    color: yellow;
+}

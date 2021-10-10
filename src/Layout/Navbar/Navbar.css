@@ -1,0 +1,13 @@
+.Toolbar{
+    height: 52px;
+    background-color: rgb(38, 37, 37);
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+    z-index: 90;
+}
+@media(max-width:499px){
+    .DesktopOnly{
+        display: none;
+    }
+}
