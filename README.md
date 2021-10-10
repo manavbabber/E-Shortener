@@ -1,2 +1,2 @@
 # E-Shortener
-URL Shortener
+URL Shortener Using tinyURL API
